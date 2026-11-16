@@ -192,7 +192,7 @@ The MSI and programs are unsigned. If Microsoft Defender, AppLocker, or App Cont
 
 ## Credits
 
-Developed by Mike Young ([@myoung8223](https://github.com/myoung8223)) using Anthropic Claude Opus 5.5.
+Developed by Mike Young ([@myoung8223](https://github.com/myoung8223)) using Anthropic Claude Opus 5.5 Medium.
 
 ## License
 
