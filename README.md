@@ -1,6 +1,6 @@
 # Stay Awake for Windows
 
-<p align="center">
+<p align="left">
   <img src="images/screenshot.png" alt="Stay Awake window showing a grace period countdown" width="320">
 </p>
 
