@@ -190,6 +190,10 @@ None of these build tools end up in the output.
 
 The MSI and programs are unsigned. If Microsoft Defender, AppLocker, or App Control blocks them, allow `StayAwake.exe` and `StayAwakeService.exe` by SHA256 hash, or allow the `C:\Program Files\StayAwake` path. Hashes change with every build. Code-signing with your own certificate avoids re-entering them.
 
+## Privacy
+
+Stay Awake sends no data anywhere: no network connections, telemetry, or update checks. It keeps settings, recent values, and a local service log on the device. See [PRIVACY.md](PRIVACY.md) for details.
+
 ## Credits
 
 Developed by Mike Young ([@myoung8223](https://github.com/myoung8223)) using Anthropic Claude Opus 5.5 Medium.
