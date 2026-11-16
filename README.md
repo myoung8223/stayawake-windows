@@ -1,5 +1,9 @@
 # Stay Awake for Windows
 
+<p align="center">
+  <img src="images/screenshot.png" alt="Stay Awake window showing a grace period countdown" width="320">
+</p>
+
 A security tool for school and work PCs. It locks the PC after an admin-set number of minutes without keyboard or mouse input, even when a browser, media player, or document-camera program is holding the screen awake. A teacher can start a **grace period** (up to an admin-set maximum) to keep the PC unlocked while presenting. Nothing starts on its own.
 
 It's the Windows counterpart of the [Stay Awake Chrome extension](https://github.com/myoung8223/stayawake), with the same minimalist window. It installs from one MSI, so you can deploy it with SCCM (ConfigMgr), Intune, or Group Policy.
