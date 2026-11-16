@@ -1,0 +1,16 @@
+<Project>
+  <!-- Settings shared by every project. build.cmd passes /p:Version=x.y.z to stamp a build. -->
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Version>1.0.1</Version>
+    <Company>Mike Young</Company>
+    <Product>Stay Awake</Product>
+    <Copyright>(c) 2026 Mike Young</Copyright>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+</Project>
